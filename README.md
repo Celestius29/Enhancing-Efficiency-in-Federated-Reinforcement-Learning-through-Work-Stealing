@@ -1,22 +1,15 @@
-Decentralized Federated Reinforcement Learning (FRL)
+__Enhancing Efficiency in Federated Reinforcement Learning through Work Stealing__
 Overview
 
 This repository contains implementations of Decentralized Federated Reinforcement Learning (FRL) algorithms with a focus on fault tolerance and efficiency improvements. The project includes support for various worker configurations and implements a work-stealing algorithm to optimize task allocation and reduce idle time.
-Contents
-
-    src/: Source code for FRL algorithms and work-stealing implementation.
-    data/: Sample datasets and environment configurations.
-    results/: Output files and visualizations generated during experimentation.
-    docs/: Documentation and research papers related to the project.
 
 Installation
 
-    Clone the repository:
+    Clone the repository: git clone https://github.com/Celestius29/Enhancing-Efficiency-in-Federated-Reinforcement-Learning-through-Work-Stealing/
 
-    bash
+    bash cd your-repo
 
-git clone https://github.com/Celestius29/Enhancing-Efficiency-in-Federated-Reinforcement-Learning-through-Work-Stealing/
-cd your-repo
+
 
 Install dependencies:
 
@@ -24,7 +17,8 @@ Install dependencies:
 
 Usage
 
-    Modify configurations in config.yml to specify worker setups and experiment parameters.
+    Modify configurations in worker.py to specify worker setups and experiment parameters.
+    Change environments in the environment.py file.
     Run experiments using the provided scripts:
 
     python run_experiments.py
