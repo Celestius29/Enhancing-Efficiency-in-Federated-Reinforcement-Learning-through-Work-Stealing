@@ -1,0 +1,2 @@
+# Enhancing-Efficiency-in-Federated-Reinforcement-Learning-through-Work-Stealing
+This GitHub repository contains decentralized Federated Reinforcement Learning (FRL) implementations with fault tolerance mechanisms, supporting different worker setups and a work-stealing algorithm for improved efficiency. It provides analytical tools, making it valuable for research in distributed reinforcement learning
