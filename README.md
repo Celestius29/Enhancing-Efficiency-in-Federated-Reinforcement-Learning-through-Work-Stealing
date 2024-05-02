@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Decentralized Federated Policy Gradient with Byzantine Fault-Tolerance and Provably Fast Convergence
 
 This repository contains the code for reproducing the experimental results and simulations as presented in the paper:
