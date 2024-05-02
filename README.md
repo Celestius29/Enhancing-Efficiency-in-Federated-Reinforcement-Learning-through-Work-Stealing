@@ -1,4 +1,4 @@
-#**Enhancing Efficiency in Federated Reinforcement Learning through Work Stealing**
+# **Enhancing Efficiency in Federated Reinforcement Learning through Work Stealing**
 
 __Overview__
 
