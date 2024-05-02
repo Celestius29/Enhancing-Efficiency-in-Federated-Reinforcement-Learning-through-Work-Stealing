@@ -1,5 +1,6 @@
-__Enhancing Efficiency in Federated Reinforcement Learning through Work Stealing__
-Overview
+#**Enhancing Efficiency in Federated Reinforcement Learning through Work Stealing**
+
+__Overview__
 
 This repository contains implementations of Decentralized Federated Reinforcement Learning (FRL) algorithms with a focus on fault tolerance and efficiency improvements. The project includes support for various worker configurations and implements a work-stealing algorithm to optimize task allocation and reduce idle time.
 
@@ -23,7 +24,7 @@ Usage
 
     python run_experiments.py
 
-Credit
+__Credit__
 
 The implementation is based on the research paper "Decentralized Federated Policy Gradient with Byzantine
 Fault-Tolerance and Provably Fast Convergence"
